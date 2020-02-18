@@ -1,0 +1,338 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.0 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{apa/global//global/global}
+    \entry{DronesAndDisaster}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e8da3203ad94435190090d963d28a71b}{%
+           family={Câmara},
+           familyi={C\bibinitperiod},
+           given={Daniel},
+           giveni={D\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{e8da3203ad94435190090d963d28a71b}
+      \strng{fullhash}{e8da3203ad94435190090d963d28a71b}
+      \strng{bibnamehash}{e8da3203ad94435190090d963d28a71b}
+      \strng{authorbibnamehash}{e8da3203ad94435190090d963d28a71b}
+      \strng{authornamehash}{e8da3203ad94435190090d963d28a71b}
+      \strng{authorfullhash}{e8da3203ad94435190090d963d28a71b}
+      \field{sortinit}{C}
+      \field{sortinithash}{963e9d84a3da2344e8833203de5aed05}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Cavalry to the rescue: drones fleet to help rescuers operations over disaster scenarios}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7003421
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7003421
+      \endverb
+    \endentry
+    \entry{Heat}{article}{}
+      \name{author}{3}{}{%
+        {{uniquename=0,uniquepart=base,hash=6809be2a8813cf5d5b00a565ea82ae89}{%
+           family={Leira},
+           familyi={L\bibinitperiod},
+           given={Frederik\bibnamedelima S.},
+           giveni={F\bibinitperiod\bibinitdelim S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=dd7a219bd351f8768b82145983ef6c86}{%
+           family={Johansen},
+           familyi={J\bibinitperiod},
+           given={Tor\bibnamedelima Arne},
+           giveni={T\bibinitperiod\bibinitdelim A\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=280c144a694b78f3bfd1919685d4ba81}{%
+           family={Fossen},
+           familyi={F\bibinitperiod},
+           given={THOR\bibnamedelima I.},
+           giveni={T\bibinitperiod\bibinitdelim I\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{99e091776be37ae843c8e54e9169a1c0}
+      \strng{fullhash}{7864e0406ac11dd997e74b534e58267d}
+      \strng{bibnamehash}{7864e0406ac11dd997e74b534e58267d}
+      \strng{authorbibnamehash}{7864e0406ac11dd997e74b534e58267d}
+      \strng{authornamehash}{99e091776be37ae843c8e54e9169a1c0}
+      \strng{authorfullhash}{7864e0406ac11dd997e74b534e58267d}
+      \field{sortinit}{L}
+      \field{sortinithash}{2c7981aaabc885868aba60f0c09ee20f}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Automatic detection, classification and tracking of objects in the ocean surface from UAVs using a thermal camera}
+      \field{year}{2015}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/abstract/document/7119238
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/abstract/document/7119238
+      \endverb
+    \endentry
+    \entry{IR}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=9be114cb579dbec4ea3f2f62a7328a0b}{%
+           family={Michael},
+           familyi={M\bibinitperiod},
+           given={Teutch},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=0ae5dfc4849ee215bc86961aeddd017c}{%
+           family={Thomas},
+           familyi={T\bibinitperiod},
+           given={Mueller},
+           giveni={M\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=737919494d62ba4317e7fdbd3d6e024e}{%
+           family={Marco},
+           familyi={M\bibinitperiod},
+           given={Huber},
+           giveni={H\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=2a121aea3338a8aa12b6974f4678e0dd}{%
+           family={Juergen},
+           familyi={J\bibinitperiod},
+           given={Beyerer},
+           giveni={B\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {IEEE}%
+      }
+      \strng{namehash}{5371e6eaccef6a907d9c9fe200426b88}
+      \strng{fullhash}{03934495da55e487f1479ae1c0bcd097}
+      \strng{bibnamehash}{03934495da55e487f1479ae1c0bcd097}
+      \strng{authorbibnamehash}{03934495da55e487f1479ae1c0bcd097}
+      \strng{authornamehash}{5371e6eaccef6a907d9c9fe200426b88}
+      \strng{authorfullhash}{03934495da55e487f1479ae1c0bcd097}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Low Resolution Person Detection with a Moving Thermal Infrared Camera by Hot Spot Classification}
+      \field{year}{2014}
+      \verb{urlraw}
+      \verb https://ieeexplore.ieee.org/document/6909985
+      \endverb
+      \verb{url}
+      \verb https://ieeexplore.ieee.org/document/6909985
+      \endverb
+    \endentry
+    \entry{Mountains}{article}{}
+      \name{author}{6}{}{%
+        {{uniquename=0,uniquepart=base,hash=11354363be50461f25c2ad643f07ff65}{%
+           family={Muhammed},
+           familyi={M\bibinitperiod},
+           given={Fatih\bibnamedelima Beser},
+           giveni={F\bibinitperiod\bibinitdelim B\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ac36e875da5d5da20f2c4dd341e95155}{%
+           family={Suleyman},
+           familyi={S\bibinitperiod},
+           given={Turedi},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=5c5a95e78adbb0580706dbc5132b1111}{%
+           family={Aynur},
+           familyi={A\bibinitperiod},
+           given={Sahin},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f1a3bf084a6dfc9d9880e52a0d64321a}{%
+           family={Ozgur},
+           familyi={O\bibinitperiod},
+           given={Tatli},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=3dc69d5bc2c668efa714b289f81228d4}{%
+           family={Mustafa},
+           familyi={M\bibinitperiod},
+           given={Cicek},
+           giveni={C\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=f25829eaf8e4c1cb22b43d3245ec5d21}{%
+           family={Yunus},
+           familyi={Y\bibinitperiod},
+           given={Karaca},
+           giveni={K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Science Direct}%
+      }
+      \strng{namehash}{1ed72c2bcdebb28ed41dacd7355dcc72}
+      \strng{fullhash}{d0052752814fca8ee1e306c256e52122}
+      \strng{bibnamehash}{d0052752814fca8ee1e306c256e52122}
+      \strng{authorbibnamehash}{d0052752814fca8ee1e306c256e52122}
+      \strng{authornamehash}{1ed72c2bcdebb28ed41dacd7355dcc72}
+      \strng{authorfullhash}{d0052752814fca8ee1e306c256e52122}
+      \field{sortinit}{M}
+      \field{sortinithash}{cfd219b90152c06204fab207bc6c7cab}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{The potential use of unmanned aircraft systems (drones) in mountain search and rescue operations}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0735675717307507
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/abs/pii/S0735675717307507
+      \endverb
+    \endentry
+    \entry{Classification}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=7284bfe9b8964f838edd617a5354fc26}{%
+           family={Priyadarshiny},
+           familyi={P\bibinitperiod},
+           given={Upasana},
+           giveni={U\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {DZone}%
+      }
+      \strng{namehash}{7284bfe9b8964f838edd617a5354fc26}
+      \strng{fullhash}{7284bfe9b8964f838edd617a5354fc26}
+      \strng{bibnamehash}{7284bfe9b8964f838edd617a5354fc26}
+      \strng{authorbibnamehash}{7284bfe9b8964f838edd617a5354fc26}
+      \strng{authornamehash}{7284bfe9b8964f838edd617a5354fc26}
+      \strng{authorfullhash}{7284bfe9b8964f838edd617a5354fc26}
+      \field{sortinit}{P}
+      \field{sortinithash}{8d51b3d5b78d75b54308d706b9bbe285}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Introduction to Classification Algorithms}
+      \field{year}{2019}
+      \verb{urlraw}
+      \verb https://dzone.com/articles/introduction-to-classification-algorithms
+      \endverb
+      \verb{url}
+      \verb https://dzone.com/articles/introduction-to-classification-algorithms
+      \endverb
+    \endentry
+    \entry{Night}{article}{}
+      \name{author}{4}{}{%
+        {{uniquename=0,uniquepart=base,hash=5df610194d2e0fa6974e6326073f7c26}{%
+           family={Sharma},
+           familyi={S\bibinitperiod},
+           given={Sonu\bibnamedelima Kumar},
+           giveni={S\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=30af83506516e1d8ca3aa3a1fba4a8c0}{%
+           family={Agrawal},
+           familyi={A\bibinitperiod},
+           given={Radhika},
+           giveni={R\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=ba4b9b5c76a43ff644957610e8f35b86}{%
+           family={Srivastava},
+           familyi={S\bibinitperiod},
+           given={Snehil},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{uniquename=0,uniquepart=base,hash=e54539719c46143cf0963243d07e5c3c}{%
+           family={Singh},
+           familyi={S\bibinitperiod},
+           given={Dushyant\bibnamedelima Kumar},
+           giveni={D\bibinitperiod\bibinitdelim K\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {ResearchGate}%
+      }
+      \strng{namehash}{ecfba46b2bbacf003970e93e7962816a}
+      \strng{fullhash}{49f5d11fb8c7d36e68d3a05e5bba9765}
+      \strng{bibnamehash}{49f5d11fb8c7d36e68d3a05e5bba9765}
+      \strng{authorbibnamehash}{49f5d11fb8c7d36e68d3a05e5bba9765}
+      \strng{authornamehash}{ecfba46b2bbacf003970e93e7962816a}
+      \strng{authorfullhash}{49f5d11fb8c7d36e68d3a05e5bba9765}
+      \field{sortinit}{S}
+      \field{sortinithash}{322b1d5276f2f6c1bccdcd15920dbee6}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Review of human detection techniques in night vision}
+      \field{year}{2017}
+      \verb{urlraw}
+      \verb https://www.researchgate.net/publication/323349108_Review_of_human_detection_techniques_in_night_vision
+      \endverb
+      \verb{url}
+      \verb https://www.researchgate.net/publication/323349108_Review_of_human_detection_techniques_in_night_vision
+      \endverb
+    \endentry
+    \entry{WorldHealthOrganisation}{article}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bfa8c395ac070ea6cddc2077faf8215f}{%
+           family={{World Health Organisation}},
+           familyi={W\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {World Health Organisation}%
+      }
+      \strng{namehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{fullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{bibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorbibnamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authornamehash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \strng{authorfullhash}{bfa8c395ac070ea6cddc2077faf8215f}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Drowning}
+      \field{year}{2020}
+      \verb{urlraw}
+      \verb https://www.who.int/news-room/fact-sheets/detail/drowning
+      \endverb
+      \verb{url}
+      \verb https://www.who.int/news-room/fact-sheets/detail/drowning
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,50 @@
+%---------- Inleiding ---------------------------------------------------------
+
+\section{Introductie} % The \section*{} command stops section numbering
+\label{sec:introductie}
+
+\textbf{Het probleem}\\
+Jaarlijks sterven gemiddeld 320.000 mensen door verdrinken. Het grootste deel in overspoelingsrampen maar ook vissers lopen een verhoogd risico. Stel dat een visser per ongeluk in de oceaan valt tijdens het doorvaren van een omgeving met sterk beperkt zicht, dan is het cruciaal om de drenkeling zo spoedig mogelijk op te sporen. Hoe langer de drenkeling vermist blijft, hoe verder hij/zij afgevoerd kan worden door de stromingen van de oceaan en dus hoe kleiner de kans dat de drenkeling terug gevonden wordt voordat onderkoeling of vermoeidheid optreedt. Eens vermoeidheid of onderkoeling optreedt is de kans op overlijden des te groter.\\\\
+\textbf{De oplossing}\\
+De dag van vandaag zijn er al heel wat optische technologieën beschikbaar die, in combinatie met de juiste software, in staat zijn om mensen te detecteren. Er zijn ook drones die door relatief barre weersomstandigheden kunnen navigeren zonder veel problemen en nog belangrijker, aan hoge snelheid. Daarom zou de combinatie van deze twee technologieën, een zeer effectieve manier kunnen zijn om drenkelingen snel op te sporen.\\\\
+\textbf{Doelstelling \& onderzoeksvragen}\\
+Het doel van deze bachelorproef is het vinden van de beste optische technologie(ën) voor het opsporen van drenkelingen bij bepaalde weersomstandigheden.\\\\
+\underline{onderzoeksvragen:}\\
+Is er een optische technologie superieur ten opzichte van alle andere technologieën?\\ Zoniet, welke technologie is het beste voor welke omstandigheden?
+
+%---------- Stand van zaken ---------------------------------------------------
+
+\section{State-of-the-art}
+\label{sec:state-of-the-art}
+
+Drones worden reeds gebruikt voor het assisteren van reddingsoperaties in verscheidene andere omgevingen zoals bijvoorbeeld rampgebieden (aardbevingen, tornado's, overstromingen, ...)\autocite{DronesAndDisaster}, bergketens of gebieden met heuvelachtige eigenschappen \autocite{Mountains} en oorlogsgebieden. Het is dus zonder twijfel mogelijk om drones in barre weersomstandigheden in te zetten.\\\\
+Er is reeds onderzoek gedaan naar het detecteren van personen aan de hand van infra-rood camera's zoals beschreven in \autocite{IR} Gezien er weinig andere organismen met eenzelfde grote infra-roodsignatuur zullen zijn, is het niet onwaarschijnlijk dat dit een goede oplossing zou kunnen zijn voor ons probleem.\\\\
+Voor het gebruiken van warmtecamera's is er ook al heel wat onderzoek gedaan. \autocite{Heat} beschrijft een onderzoek waarbij men personen of objecten detecteert aan de hand van een klassificatiealgoritme (onderdeel van machineleren) op zee en ze daarna ook te volgen.\\\\ Ten slotte is er nog nachtzicht cameras. Dit is nog een andere soort camera die ook organismen met een lichaamswarmte via kleuren aanduidt. Ook bij dit type camera is er reeds onderzoek uitgevoerd voor het detecteren van mensen. In dit onderzoek werden 2 soorten algoritmen onderzocht met als doel, het vinden van het algoritme met de beste nauwkeurigheid. \autocite{Night}\\\\
+Voor het herkennen van mensen op basis van verkregen beelden kan, zoals hierboven vermeld werd, een klassificatiealgoritme gebruikt worden. Dit is een algoritme die tot toebehoort machineleren. Zo kan men tegenwoordig reeds aan veel gecompliceerdere objectherkenning doen dan wij in ons geval nodig zullen hebben. Meer over klassificatiealgotirmen worden besproken in \autocite{Classification}.
+
+% Voor literatuurverwijzingen zijn er twee belangrijke commando's:
+% \autocite{KEY} => (Auteur, jaartal) Gebruik dit als de naam van de auteur
+%   geen onderdeel is van de zin.
+% \textcite{KEY} => Auteur (jaartal)  Gebruik dit als de auteursnaam wel een
+%   functie heeft in de zin (bv. ``Uit onderzoek door Doll & Hill (1954) bleek
+%   ...'')
+
+
+%---------- Methodologie ------------------------------------------------------
+\section{Methodologie}
+\label{sec:methodologie}
+
+Tijdens dit onderzoek zal er aan de hand van verscheidene soorten camera's en een klassificatiealgoritme nagegaan worden welke camera's het beste presteren bij welke weersomstandigheden. We zullen bij verschillende weersomstandigheden en op verschillende afstanden nagaan of een persoon gedetecteerd wordt. Zoals eerder vermeld gaan we gebruik maken van klassificatiealgoritmes die de pixels met een persoon in een aparte klasse klassificeert om zo de drenkeling te vinden. Dit algoritme zal wel eerst getrained moeten worden vooraleer aan herkenning gedaan kan worden.
+
+%---------- Verwachte resultaten ----------------------------------------------
+\section{Verwachte resultaten}
+\label{sec:verwachte_resultaten}
+
+Als resultaat verwachten we dat elke camera zijn sterktes en zwaktes zal hebben. Bij de ene set weersomstandigheden zal camera A misschien superieur zijn terwijl bij andere weersomstandigheden camera B dan weer superieur zal zijn. 
+
+%---------- Verwachte conclusies ----------------------------------------------
+\section{Verwachte conclusies}
+\label{sec:verwachte_conclusies}
+
+Ik verwacht dat camera's zoals warmtecamera's en infraroodcamera's met de hoogste efficientie te werk zullen gaan. Een gewone camera maakt te weinig onderscheid tussen organismen en de omgeving. Daarboven denk ik dat warmtecamera's nog efficienter zullen zijn dan infra-roodcamera's. Indien mensen in een reddingsboot erin slagen om een noodfakkel aan te steken bij het passeren van een drone, dan zullen ze zeker opgemerkt worden door een warmtecamera. 
+
