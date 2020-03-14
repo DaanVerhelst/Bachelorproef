@@ -7,7 +7,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.2}Onderzoeksvraag}{13}{section.1.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{13}{section.1.3}% 
+\contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{14}{section.1.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.4}Opzet van deze bachelorproef}{14}{section.1.4}% 
 \defcounter {refsection}{0}\relax 
@@ -23,91 +23,91 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{IR-Camera}{16}{section*.8}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Warmtecamera}{16}{section*.9}% 
+\contentsline {paragraph}{Warmtecamera}{17}{section*.9}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Nachtzichtcamera}{17}{section*.10}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Extra factoren}{17}{section*.11}% 
+\contentsline {paragraph}{Extra factoren}{18}{section*.11}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.1.2}Optimale drone voor reddingsacties op zee}{18}{subsection.2.1.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Een versus meerdere drones}{18}{section*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Fysieke eigenschappen}{18}{section*.13}% 
+\contentsline {paragraph}{Fysieke eigenschappen}{19}{section*.13}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Kostprijs}{19}{section*.14}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.3}Extra opties}{19}{subsection.2.1.3}% 
+\contentsline {subsection}{\numberline {2.1.3}Extra opties}{20}{subsection.2.1.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Landingsapparatuur voor waterlandingen}{19}{section*.15}% 
+\contentsline {paragraph}{Landingsapparatuur voor waterlandingen}{20}{section*.15}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Robotische arm voor het transporteren van items}{20}{section*.16}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Luidsprekers en een microfoon voor communicatie}{20}{section*.17}% 
+\contentsline {paragraph}{Luidsprekers en een microfoon voor communicatie}{21}{section*.17}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Vuurfakkel voor signalisatie}{21}{section*.18}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {2.2}Software}{21}{section.2.2}% 
+\contentsline {section}{\numberline {2.2}Software}{22}{section.2.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Inleiding}{21}{section*.19}% 
+\contentsline {paragraph}{Inleiding}{22}{section*.19}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Besturing van de drone}{21}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Besturing van de drone}{22}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Handmatig}{21}{section*.20}% 
+\contentsline {paragraph}{Handmatig}{22}{section*.20}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Automatisch}{22}{section*.21}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Combinatie}{22}{section*.22}% 
+\contentsline {paragraph}{Combinatie}{23}{section*.22}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {subsection}{\numberline {2.2.2}Herkenningssoftware}{23}{subsection.2.2.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Voordelen}{23}{section*.23}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Nadelen}{23}{section*.24}% 
+\contentsline {paragraph}{Nadelen}{24}{section*.24}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2.3}Implementatie}{24}{section.2.3}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Inleiding}{24}{section*.25}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.1}Bestaande procedures en verwerking}{24}{subsection.2.3.1}% 
+\contentsline {subsection}{\numberline {2.3.1}Bestaande procedures en verwerking}{25}{subsection.2.3.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Wetten rond dronegebruik}{24}{section*.26}% 
+\contentsline {paragraph}{Wetten rond dronegebruik}{25}{section*.26}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Procedures van Reddingsdiensten}{25}{section*.27}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Procedures van bedrijven in de scheepvaartsector}{25}{section*.28}% 
+\contentsline {paragraph}{Procedures van bedrijven in de scheepvaartsector}{26}{section*.28}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Verwerking van drones in bestaand systeem}{25}{section*.29}% 
+\contentsline {paragraph}{Verwerking van drones in bestaand systeem}{26}{section*.29}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.2}Opstijgen en landen op zee}{26}{subsection.2.3.2}% 
+\contentsline {subsection}{\numberline {2.3.2}Opstijgen en landen op zee}{27}{subsection.2.3.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Vertrek}{26}{section*.30}% 
+\contentsline {paragraph}{Vertrek}{27}{section*.30}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Recovery}{26}{section*.31}% 
+\contentsline {paragraph}{Recovery}{27}{section*.31}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.3.3}Acties bij detectie van een drenkeling}{27}{subsection.2.3.3}% 
+\contentsline {subsection}{\numberline {2.3.3}Acties bij detectie van een drenkeling}{28}{subsection.2.3.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Signalisatie van locatie}{27}{section*.32}% 
+\contentsline {paragraph}{Signalisatie van locatie}{28}{section*.32}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Landen versus vliegen}{27}{section*.33}% 
+\contentsline {paragraph}{Landen versus vliegen}{28}{section*.33}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Kalmte van de drenkeling bewaken}{28}{section*.34}% 
+\contentsline {paragraph}{Kalmte van de drenkeling bewaken}{29}{section*.34}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {3}Methodologie}{29}{chapter.3}% 
+\contentsline {chapter}{\numberline {3}Methodologie}{31}{chapter.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Conclusie}{31}{chapter.4}% 
+\contentsline {chapter}{\numberline {4}Conclusie}{33}{chapter.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{33}{appendix.A}% 
+\contentsline {chapter}{\numberline {A}Onderzoeksvoorstel}{35}{appendix.A}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.1}Introductie}{33}{section.A.1}% 
+\contentsline {section}{\numberline {A.1}Introductie}{35}{section.A.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.2}State-of-the-art}{34}{section.A.2}% 
+\contentsline {section}{\numberline {A.2}State-of-the-art}{36}{section.A.2}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.3}Methodologie}{34}{section.A.3}% 
+\contentsline {section}{\numberline {A.3}Methodologie}{36}{section.A.3}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.4}Verwachte resultaten}{35}{section.A.4}% 
+\contentsline {section}{\numberline {A.4}Verwachte resultaten}{37}{section.A.4}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {A.5}Verwachte conclusies}{35}{section.A.5}% 
+\contentsline {section}{\numberline {A.5}Verwachte conclusies}{37}{section.A.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bibliografie}{37}{appendix*.35}% 
+\contentsline {chapter}{Bibliografie}{39}{appendix*.35}% 
 \contentsfinish 
