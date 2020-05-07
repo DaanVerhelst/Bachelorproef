@@ -53,6 +53,37 @@
       \verb https://ieeexplore.ieee.org/abstract/document/7003421
       \endverb
     \endentry
+    \entry{DigitalCameras}{book}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=dc96f30a89d29062c635bc1e8bd804e2}{%
+           family={{Jon Tarrant}},
+           familyi={J\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier}%
+      }
+      \strng{namehash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \strng{fullhash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \strng{bibnamehash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \strng{authorbibnamehash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \strng{authornamehash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \strng{authorfullhash}{dc96f30a89d29062c635bc1e8bd804e2}
+      \field{sortinit}{J}
+      \field{sortinithash}{fce5f8d0bd05e8d93f3dbe21c78897ca}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{year}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Understanding Digital Cameras}
+      \field{year}{2007}
+      \verb{urlraw}
+      \verb openlibrary.org/works/OL2174798W/Understanding_Digital_Cameras
+      \endverb
+      \verb{url}
+      \verb openlibrary.org/works/OL2174798W/Understanding_Digital_Cameras
+      \endverb
+    \endentry
     \entry{Heat}{article}{}
       \name{author}{3}{}{%
         {{uniquename=0,uniquepart=base,hash=6809be2a8813cf5d5b00a565ea82ae89}{%

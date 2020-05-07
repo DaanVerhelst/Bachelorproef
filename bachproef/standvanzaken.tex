@@ -20,58 +20,74 @@ In dit deel van de paper zullen we de noodzakelijke en optionele hardware bespre
 De normale camera, die we gebruiken voor het maken van mooie foto's, is ons allemaal bekend. Elke smartphone heeft tegenwoordig camera's die prachtige en gedetailleerde foto's kan maken en de ontwikkeling van deze technologie is nog steeds lopende. Maar wat is zo'n camera nu eigenlijk? Hoe werkt het en hoe kunnen wij het gaan gebruiken voor de uitwerking van ons idee? (nl. het gebruik van camera's voor persoondetectie)
 
 \subitem
-Wat is een camera? Een camera is een toestel dat in staat is om een beeld die zich voor de lens bevindt vast te leggen. Eens de persoon, die de foto wil trekken, op de knop drukt om het beeld vast te leggen, opent een shutter die tot dan het licht tegenhield. De lens zal dan het binnenkomende licht op focussen zodat het op een fotografische film of digitale sensor terecht komt. Aan de hand van deze photografische film of digitale sensor, kan dan een digitale representatie van de getrokken personen, het getrokken object of landschap. Als men nu dit proces meerdermalen herhaald en alle foto's die getrokken werden op een snel tempo na elkaar tonen, dan krijg je een videofragment in plaats van een enkele foto. Om dit te kunnen doen moet men natuurlijk aan een zeer hoog tempo foto's kunnen trekken zodat verandering in de getrokken omgeving, geleidelijk aan weergegeven worden en niet in sprongen. De snelheid waarmee de foto's genomen worden, wordt uitgedrukt in frames per seconde waarbij een frame een synoniem is voor een foto. Een veel voorkomend frame-rate bij videocamera's is 24 frames per seconde wat dus wil zeggen dat er per seconde 24 foto's genomen worden. Om deze nu aan een correcte snelheid af te spelen moeten de afbeeldingen ook aan een snelheid van 24 frames per seconde weergegeven worden. De resolutie van een foto is ook een belangrijke factor bij fotografie. Dit wordt uitgedrukt in pixels en hangt af van het aantal fotodiodes op de digitale sensor. Deze fotodiodes zijn de componenten die de lichtinval opvangen en omzetten naar digitale data van de foto. Een pixel is een, meestal heel klein, stukje van de afbeelding die een bepaalde kleur aanneemt. 
+Wat is een camera? Een camera is een toestel dat in staat is om een beeld die zich voor de lens bevindt vast te leggen. Eens de persoon, die de foto wil trekken, op de knop drukt om het beeld vast te leggen, opent een shutter die tot dan het licht tegenhield. De lens zal dan het binnenkomende licht op focussen zodat het op een fotografische film of digitale sensor terecht komt. Aan de hand van deze photografische film of digitale sensor, kan dan een digitale representatie van de getrokken personen, het getrokken object of landschap. Als men nu dit proces meerdermalen herhaald en alle foto's die getrokken werden op een snel tempo na elkaar tonen, dan krijg je een videofragment in plaats van een enkele foto. Om dit te kunnen doen moet men natuurlijk aan een zeer hoog tempo foto's kunnen trekken zodat verandering in de getrokken omgeving, geleidelijk aan weergegeven worden en niet in sprongen. De snelheid waarmee de foto's genomen worden, wordt uitgedrukt in frames per seconde waarbij een frame een synoniem is voor een foto. Een veel voorkomend frame-rate bij videocamera's is 24 frames per seconde wat dus wil zeggen dat er per seconde 24 foto's genomen worden. Om deze nu aan een correcte snelheid af te spelen moeten de afbeeldingen ook aan een snelheid van 24 frames per seconde weergegeven worden. De resolutie van een foto is ook een belangrijke factor bij fotografie. Dit wordt uitgedrukt in pixels en hangt af van het aantal fotodiodes op de digitale sensor. Deze fotodiodes zijn de componenten die de lichtinval opvangen en omzetten naar digitale data van de foto. Een pixel is een, meestal heel klein, stukje van de afbeelding die een bepaalde kleur aanneemt. \autocite{DigitalCameras}
 
 \subitem
 Hoe kunnen wij zo'n camera nu gaan toepassen op de detectie van drenkelingen op diepzee? Zoals eerder vermeld werd, kunnen we aan een heel hoog tempo foto's nemen aan een bepaalde resolutie om zo een videofragment vast te leggen. Indien we nu elk van deze frames zouden laten analyseren door een algoritme, die in staat is om mensen te herkennen, zouden we op die manier aan persoonherkenning kunnen doen. Een probleem met deze camera is dat het sterk afhankelijk is van voldoende lichtinval. In zeer donkere omstandigheden zoals de nacht op zee, zou dit geen goede oplossing zijn. 
 
 \paragraph{IR-Camera}
 
-\lipsum[1-2]
+\subitem
+Zoals we in de vorige paragraaf besproken hadden, is het zo dat normale camera's, in donkere omstandigheden, niet voldoende zouden zijn voor het detecteren van drenkelingen op zee. Er zou niet voldoende lichtinval zijn om duidelijke afbeeldingen te maken waaruit een algoritme dan een mens kan herkennen. Daarom zijn er andere technologieën die op een zeer gelijkaardige manier beelden kunnen vastleggen maar toch een ander resultaat verkrijgen. Een van deze alternatieve technologieën is infra-rood camera's. 
+
+\subitem
+Wat is nu het verschil tussen een gewone camera en een infra-rood camera? Zoals eerder vermeld is het eigenlijk een zeer klein verschil tussen de twee camera's. Het werkt ook met een lens, een shutter en sensoren. Het verschil is dat, bij een infra-rood camera, een infra-rood sensor array gebruikt wordt. Deze sensoren zijn in staat om infra-rood energie te detecteren en deze informatie om te zetten naar een afbeelding. Het menselijk lichaam geeft veel verschillende stralingen af maar infra-rood licht is een van de meest aanwezige vormen van straling.
+
+\subitem
+Om deze technologie nu te gaan toepassen op het detecteren van drenkelingen op zee, kunnen we zeer gelijkaardig te werk gaan. Een infra-rood camera kan namelijk, op een gelijkaardige manier aan de normale camera, heel snel fotos nemen. Op die manier kunnen we videomateriaal maken door ze opnieuw op eenzelfde frequentie af te spelen. Ook kunnen we frame per frame gaan analyseren om na te gaan of een drenkeling op dat frame te zien is. Het voordeel aan infrarood camera's is dat, het menselijk lichaam die veer infra-roodstralingen uitstraalt, sterk oplicht op een frame of foto die genomen werd door een infra-rood camera. Hierdoor is een infra-rood camera een zeer goede optische technologie in donkere omgevingen. 
 
 \paragraph{Warmtecamera}
 
-\lipsum[1-2]
+\subitem
+Zoals vermeld in de bovenstaande paragraaf, zijn er betere alternatieven voor een gewone camera. De warmtecamera is hier nog een voorbeeld van. Deze camera is ook weer heel gelijkaardig aan de gewone camera met opnieuw als grootste verschil, de soort straling die gedetecteerd wordt. Bij warmtecameras wordt er ook licht uit het infra-rode spectrum opgevangen maar deze keer in het lange infra-rood bereik waar men bij infra-rood camera's eerder het licht uit de near-infra-rode regio gaat opvangen. Het licht binnen de near-infra-rode regio is net niet zichtbaar is met het blote oog. Het grote nadeel van infra-rood camera's is dat er een minimum hoeveelheid licht moet zijn vooraleer het kan werken. Dit is waar warmtecamera's beter zijn dan infra-rood camera's. Omdat warmtecamera's gebruik maken van licht uit het lange infra-rood bereik, zijn deze camera's niet afhankelijk van ander licht. Deze camera registreert enkel de warmte die een mensenlichaam uitstraalt. Daarom is dit een superieure optie ten opzichte van de andere camera's. Deze kan zowel 's nachts als overdag gebruikt worden. 
 
-\paragraph{Nachtzichtcamera}
+\subitem
+Deze camera kunnen we dus op een gelijkaardige manier in gebruik nemen. We laten foto's of frames nemen die we dan zullen analyseren aan de hand van een algoritme. Op basis daarvan kunnen we dan bepalen of er een drenkeling in beeld is of niet. 
 
-\lipsum[1-2]
 
-\paragraph{Extra factoren}
-
-\lipsum[1-2]
 
 \subsection{Optimale drone voor reddingsacties op zee}
 
+\subitem
+Er zijn verschillende zaken die in rekening gebracht moeten worden wanneer we een drone moeten kiezen. Zo moeten we bijvoorbeeld kijken naar de materialen die gebruikt werden bij de productie van de drone, de mate waarin het geprogrammeerd kan worden om autonoom op pad te gaan, de kostprijs en beschikbaarheid van de drone en de bijbehorende vervangstukken, de reikwijdte van het toestel, de hefkracht van het toestel en de hoelang de drone vliegende kan blijven zonder opgeladen te moeten worden. Eerst zullen we een goedkopere consumer-grade drone bespreken. We kijken of het voordeliger is om goedkope toestellen te gebruiken en ze simpelweg te vervangen bij schade of dat we een duurdere industrial-grade drone nemen met vervangstukken.
+
+\paragraph{Consumer-grade drone}
+
+\subitem
+Het eerste toestel dat we gaan bekijken is een drone van bedrijf Ryze Robotics. \autocite{CheapDrone} Het kost iets minder dan 110 euro wanneer we het aankopen via het officiële verkooppunt \autocite{CheapDroneOfficial}. 
+
+We weten niet uit welk materiaal deze drone opgebouwd is wat wil zeggen dat we dus ook niet weten hoe resistent deze drone is tegen heftigere omstandigheden. Het is niet programmeerbaar wat wil zeggen dat we iemand de drone moeten laten besturen en iemand de live beelden moeten laten analyseren. Dit wil dus zeggen dat we 2 mensen nodig hebben per drone. Er is geen mogelijkheid om een reddingsband naar de drenkeling te vervoeren door een gebrek aan opties voor een robotische arm. Ook herstelling van een drone is niet mogelijk door het gebrek aan vervangstukken. Bij schade moeten we een nieuwe drone aanschaffen. De reikwijdte van de drone is slechts 100 meter. Indien de drenkeling pas na een paar minuten vermist wordt, is het mogelijk dat de drone niet ver genoeg kan vliegen om de drenkeling te detecteren. De vliegtijd is slechts 13 minuten dus indien de drenkeling niet binnen 13 minuten terug gevonden en gered wordt, verliest de drone zijn waarde.
+De drone moet namelijk in staat zijn om zijn locatie te versturen naar de reddingstroepen. De snelheid van 8 meter / seconde zou wel voldoen.
+Over het algemeen kunnen we stellen dat deze drone niet geschikt is voor onze toepassing.
+
+\paragraph{Industrial-grade drone}
+
+\subitem
+Nu gaan we kijken naar een voorbeeld van een industrial-grade drone die bedoeld is voor gebruik in bedrijven en organisaties. Deze drone is heel wat duurder dan een consumer-grade drone maar zou heel wat voordelen hebben.
+
+Deze drone is bijvoorbeeld geconstrueerd uit materialen die corosieresistent zijn zodat het in verscheidene weersomstandigheden kan vliegen, de drone kan automatisch geactiveerd worden, alsook geprogrammeerd worden om een bepaald patroon te volgen, de optie voor een robotische arm is er, indien de batterij plat is, kan deze vervangen worden zodat de drone meteen terug op pad kan. Ook heeft het een zeer accurate locatie-apparatuur waardoor het zeer duidelijk de locatie van de drenkeling kan doorsturen.Het heeft ook een parachute voor bij noodlandingen. Dit kan helpen om schade te beperken en dus ook kosten aan de drone. Live beelden zijn mogelijk. Tenslotte is er ook nog de kist die er speciaal voor werd ontworpen. In deze kist, zit de drone veilig en wordt het opgeladen indien nodig. 
+
+Dit is duidelijk een betere optie voor deze toepassing.
+
 \paragraph{Een versus meerdere drones}
 
-\lipsum[1-2]
-
-\paragraph{Fysieke eigenschappen}
-
-\lipsum[1-2]
-
-\paragraph{Kostprijs}
-
-\lipsum[1-2]
+\subitem
+Het snel vinden van drenkelingen op zee is cruciaal voor de overlevingskansen van de drenkeling. Dit roept de volgende vraag op. Is één drone voldoende of hebben we er meer nodig? Om dit te bepalen moeten we bepalen hoeveel oppervlakte één drone kan onderzoeken binnen een bepaalde tijdseenheid. Neem nu dat de drone een hoogte van 120 meter aanhoudt en dat de drone een oppervlakte van 1600 vierkante meter "ziet". Combineer dit nu met het feit dat de hierboven besproken drone een snelheid van 10m/s kan aanhouden. Hieruit kunnen we afleiden dat de drone, iedere 4 seconden, 1600 vierkante meter kan inspecteren met als gevolg dat we in 1 minuut, 24 vierkante kilometer aan oppervlakte kunnen doorzoeken. Het is duidelijk dat één drone voldoende zal zijn voor het vinden van drenkelingen. 
 
 \subsection{Extra opties}
 
-\paragraph{Landingsapparatuur voor waterlandingen}
-
-\lipsum[1-2]
-
-\paragraph{Robotische arm voor het transporteren van items}
-
-\lipsum[1-2]
+\subitem
+De drone zelf op zich is reeds een grote aanwinst bij reddingsoperaties maar het kan nog beter. Door de drone uit te rusten met een aantal extra opties, kunnen we de efficiëntie van een drone bij reddingsoperaties nog verbeteren. Daarom zullen we in deze subsectie een aantal ideeën bespreken voor optionele extenties voor de drone.  
 
 \paragraph{Luidsprekers en een microfoon voor communicatie}
 
-\lipsum[1-2]
+\subitem
+Stel iemand valt overboord in het water. De drone wordt geactiveerd en vindt na een bepaalde tijd de drenkeling terug. Wat doet de drone terwijl de reddingsbrigade onderweg is? Een idee is om een luidspreker en microfoon in de drone te verwerken om communicatie op afstand mogelijk te maken. Zo kunnen we misschien de kalmte van de drenkeling bewaren. Ook zouden we kalmerende muziek kunnen afspelen om opnieuw de kalmte te bewaren. 
+De microfoon kan ook dienen als een geluidsdetector. Als de drenkeling luid roept naar de drone die hij/zij ziet passeren, dan zou dit ook als middel voor localisatie kunnen dienen.
 
 \paragraph{Vuurfakkel voor signalisatie}
 
-\lipsum[1-2]
+Nog een optie zou kunnen zijn dat we aan de hand van een klauw een vuurfakkel naar de drenkeling brengen zodat de reddingsoperatoren sneller zien waar de is. Dit zou tijd uitsparen in donkere omstandigheden. Hoewel de warmtecamera dan de exacte locatie uit het oog zal verliezen, door de grote hoeveelheid hitte die de vuurfakkel uitstoot, kan een schatting van de locatie nog steeds behouden worden en voor de exacte locatie dient uiteraard de vuurfakkel. 
 
 \section{Software}
 
@@ -82,15 +98,18 @@ In vorige sectie hebben we de noodzakelijke en optionele hardware, zoals drones 
 
 \paragraph{Handmatig}
 
-\lipsum[1-2]
+\subitem
+Het handmatig besturen van de drone heeft zijn voor- en nadelen. De voordelen zijn dat je meer controle hebt over de drone waardoor je gerichter kan werken. Als je weet waar de drenkeling ongeveer zou kunnen zijn zou je de drone zelf in die richting kunnen besturen om zo sneller de drenkeling te vinden. De nadelen zijn dat mensen niet even accuraat tewerk kunnen gaan als we het vergelijken met een computer. Nog een nadeel van het handmatig besturen van de drone is dat men mensen zal moeten opleiden voor het besturen van die drone. 
 
 \paragraph{Automatisch}
 
-\lipsum[1-2]
+\subitem
+De drone laten besturen door een computer systeem heeft ook zijn voor- en nadelen. De voordelen zijn dat de computer, op basis van coördinaten, een veel accurater grid-patroon kan volgen en dus minder fouten maakt. Door de rekenkracht van de computer kan de drone ook maximaal benut worden. Het grote nadeel hieraan is dat een computer systeem niet over zoiets als een intuïtie beschikt. Het zal zijn voorgeprogrammeerd pad afleggen en niets meer of minder dan dat.  
 
 \paragraph{Combinatie}
 
-\lipsum[1-2]
+\subitem
+Gezien beide zowel voor als nadelen heeft is het misschien beter van beide opties te combineren om zo zoveel voordelen als mogelijk is te behouden. We zouden bijvoorbeeld handmatig kunnen zoeken in de algemene richting waar men vermoed de drenkeling terug te vinden. Na het vinden van de drenkeling kan de computer dan overnemen voor het volgen van de drenkeling tot de drenkeling uiteindelijk gered wordt. 
 
 \subsection{Herkenningssoftware}
 
@@ -106,6 +125,7 @@ In vorige sectie hebben we de noodzakelijke en optionele hardware, zoals drones 
 
 \paragraph{Inleiding}
 
+\subitem
 Nu dat we voldoende voorkennis hebben omtrent zowel hardware als software alsook de meest efficiënte hardware en software bepaald hebben voor deze toepassing (nl. reddingsacties op diepzee) kunnen we verder gaan naar de implementatiefase van dit concept. Voordat we een goed voorstel kunnen geven voor de implementatie van drones bij reddingsacties moeten we uiteraard een goed beeld hebben van de huidige situatie binnen de zeevaartsector. Daarom zullen we ons in deze sectie eerst gaan verdiepen in de bestaande procedures die bedrijven en reddingsdiensten moeten volgen, alsook de wetten rond het gebruik van drones. Daarna zullen we, met alle vooraf vergaarde kennis, de effectieve acties en implementatie van de drone gaan vastleggen. We bespreken dan alle stappen van opstijgen en landen tot het vastleggen van acties die de drone zou ondernemen in het geval van het detecteren van een drenkeling. 
 
 \subsection{Bestaande procedures en verwerking}
@@ -138,14 +158,19 @@ Nu dat we voldoende voorkennis hebben omtrent zowel hardware als software alsook
 
 \subsection{Acties bij detectie van een drenkeling}
 
+\subitem
+Wat moet de drone nu doen wanneer het de locatie van de drenkeling ontdekt heeft. Er zijn verscheidene zaken die de drone kan en/of moet doen. De drone moet aangeven dat het iets of iemand gedetecteerd heeft. Er kan geopteerd worden voor het landen van de drone om de batterij van de drone te sparen tot de reddingsdiensten arriveren of de drone kan in de lucht blijven. Tot slot kan de drone gebruikt worden om de kalmte van de drenkeling te bewaren zodat hij of zij niet te veel energie verdoet en het zo langer kan uithouden tot de reddingsdiensten aankomen. Deze zaken zullen we nu bespreken.
+
 \paragraph{Signalisatie van locatie}
 
-\lipsum[1-2]
+\subitem
+De locatie van de drone is hoe dan ook bekend door de localisatie die in de drone ingebouwd is. Hoe kunnen we dan weten wanneer de drone iets ontdekt heeft? Eerst en vooral zou de drone tot stilstand komen wat zichtbaar zou zijn op de live feed van de drone. Dat zou één methode kunnen zijn voor het bepalen van de locatie van de drenkeling. Dit is natuurlijk niet de beste oplossing die we met deze technologie kunnen bereiken. We zouden er bijvoorbeeld ook voor kunnen zorgen dat de drone zelf een signaal uitzendt naar het computersysteem op het schip zelf. Zo kunnen de reddingsdiensten meteen naar de locatie van het signaal navigeren met een hoge waarschijnlijkheid, de drenkeling terug te vinden.  
 
 \paragraph{Landen versus vliegen}
 
-\lipsum[1-2]
+\subitem
+Eens de drone de locatie van de drenkeling ontdekt heeft en het signaal gegeven heeft zodat de reddingsdiensten ook op de hoogte gebracht zijn, kan de drone 2 zaken doen: landen op zee of in de lucht blijven. Beide opties hebben voordelen en nadelen die in rekening gebracht moeten worden. In de lucht blijven heeft als voordeel dat het veel gemakkelijker is om de drenkeling te blijven volgen om zo een accurate locatie door te kunnen blijven geven. Een groot nadeel is dat het veel meer batterij zou verbruiken en als de reddingsdiensten niet op tijd aankomen zou het rampzalig zijn als de drone vroegtijdig zou moeten terug keren. Ook moeten we rekening houden met het feit dat reddingsacties dikwijls ondernomen worden aan de hand van een reddingshelicopter. Dit wil zeggen dat er een systeem ontwikkeld en geïmplementeerd zal moeten worden zodat de drone weet wanneer het uit de weg moet gaan voor de helicopter. De drone in de lucht houden heeft dus duidelijk heel wat nadelen. Wanneer we de drone op het water laten landen, dan moeten de rotoren van de drone niet actief zijn. Dit is positief voor de batterijduur van de drone. Als alle stroom gebruikt kan worden voor signalisatie, dan is er veel minder risico dat de drone moet terugkeren vooraleer de drenkeling gered werd door reddingsdiensten. Een nadeel is echter wel dat het voor de drone veel moeilijker is om de drenkeling in de gaten te houden. Er moet ook gezorgd worden dat de drone geen obstakel vormt voor de reddingsactie indien men boten gebruikt. Een goede oplossing zou kunnen zijn dat de drone uitgerust is met een airbagachtig systeem zodat het een reddingsboei kan vormen. De drone kan op een veilige afstand landen en de drenkeling kan er dan naartoe zwemmen. Dit maakt het ook gemakkelijker om via een microfoon te communiceren met mensen op het schip. 
 
-\paragraph{Kalmte van de drenkeling bewaken}
+\paragraph{Kalmte van de drenkeling bewaren}
 
-\lipsum[1-2]
+Paniek is iets heel gevaarlijk in elke mogelijke situatie die je kan bedenken. Het is al vaak gebleken dat mensen, die in paniek slaan, het vermogen om rationeel te reageren verliezen. Dit feit leidt dikwijls tot ongelukkige en soms zelfs dodelijke ongevallen. Op zee kan paniek echter andere gevolgen teweeg brengen. Indien een drenkeling paniek begint te vertonen, zal hij of zij meer energie gaan verbruiken door hyperventilatie, overbodige bewegingen en eventueel door huilen of roepen om hulp. Al deze extra energie verbruiken kan gevaarlijk zijn omdat de 
