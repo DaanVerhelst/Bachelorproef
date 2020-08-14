@@ -53,6 +53,58 @@
       \verb https://ieeexplore.ieee.org/abstract/document/7003421
       \endverb
     \endentry
+    \entry{CheapDroneOfficial}{retailer}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=bc914786a1d7e8babaec439008760d8e}{%
+           family={{DJI Store}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{bc914786a1d7e8babaec439008760d8e}
+      \strng{fullhash}{bc914786a1d7e8babaec439008760d8e}
+      \strng{bibnamehash}{bc914786a1d7e8babaec439008760d8e}
+      \strng{authorbibnamehash}{bc914786a1d7e8babaec439008760d8e}
+      \strng{authornamehash}{bc914786a1d7e8babaec439008760d8e}
+      \strng{authorfullhash}{bc914786a1d7e8babaec439008760d8e}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Tello}
+      \verb{urlraw}
+      \verb https://store.dji.com/product/tello?from=menu_products&vid=38421
+      \endverb
+      \verb{url}
+      \verb https://store.dji.com/product/tello?from=menu_products&vid=38421
+      \endverb
+    \endentry
+    \entry{Industrial}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=e2df170b9f1ebf5d59fa4d827c29a07a}{%
+           family={{DSLRPros}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \strng{fullhash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \strng{bibnamehash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \strng{authorbibnamehash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \strng{authornamehash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \strng{authorfullhash}{e2df170b9f1ebf5d59fa4d827c29a07a}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DSLRPros Matrice 210 + XT2 First Responder Thermal Kit}
+      \verb{urlraw}
+      \verb https://www.dslrpros.com/matrice-210-first-responder-thermal-kit.html
+      \endverb
+      \verb{url}
+      \verb https://www.dslrpros.com/matrice-210-first-responder-thermal-kit.html
+      \endverb
+    \endentry
     \entry{DigitalCameras}{book}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=dc96f30a89d29062c635bc1e8bd804e2}{%
@@ -278,6 +330,32 @@
       \endverb
       \verb{url}
       \verb https://dzone.com/articles/introduction-to-classification-algorithms
+      \endverb
+    \endentry
+    \entry{CheapDrone}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=4febe38643b9fbdae73f3b35057efd71}{%
+           family={{Ryze Robotics}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{4febe38643b9fbdae73f3b35057efd71}
+      \strng{fullhash}{4febe38643b9fbdae73f3b35057efd71}
+      \strng{bibnamehash}{4febe38643b9fbdae73f3b35057efd71}
+      \strng{authorbibnamehash}{4febe38643b9fbdae73f3b35057efd71}
+      \strng{authornamehash}{4febe38643b9fbdae73f3b35057efd71}
+      \strng{authorfullhash}{4febe38643b9fbdae73f3b35057efd71}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{TELLO}
+      \verb{urlraw}
+      \verb https://www.ryzerobotics.com/tello/specs
+      \endverb
+      \verb{url}
+      \verb https://www.ryzerobotics.com/tello/specs
       \endverb
     \endentry
     \entry{Night}{article}{}
