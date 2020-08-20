@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.4)  20 AUG 2020 16:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000 64-bit) (preloaded format=pdflatex 2019.5.4)  20 AUG 2020 19:30
 entering extended mode
 **./bachproef-tin.tex
 (bachproef-tin.tex
@@ -1892,15 +1892,13 @@ LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <24.88> not available
 (Font)              Font shape `T1/pag/b/n' tried instead on input line 5.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <24.88> not available
 (Font)              Font shape `T1/pag/db/n' tried instead on input line 5.
-
+ [3]) (samenvatting.tex [4])
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [3])
-(samenvatting.tex [4]) [5
+ [5
 
-] [6
-
-] (bachproef-tin.toc
+]
+[6] (bachproef-tin.toc
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/pag/b/n' tried instead on input line 4.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <14.4> not available
@@ -1916,7 +1914,9 @@ LaTeX Font Info:    Font shape `T1/pag/b/n' in size <12> not available
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [7]
+ [7
+
+]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [8])
@@ -1936,33 +1936,35 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 
 ]
 Hoofdstuk 1.
-LaTeX Font Info:    Try loading font information for OMS+ptm on input line 19.
+[13]
+LaTeX Font Info:    Try loading font information for OMS+ptm on input line 21.
 
 ("C:\Users\Beheerder\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omsptm.
 fd"
 File: omsptm.fd 
 )
 LaTeX Font Info:    Font shape `OMS/ptm/m/n' in size <12> not available
-(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 19.
- [13]) (standvanzaken.tex [14]
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 21.
+) (standvanzaken.tex [14]
 Hoofdstuk 2.
 LaTeX Font Info:    Font shape `T1/pag/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/b/n' tried instead on input line 18.
+(Font)              Font shape `T1/pag/b/n' tried instead on input line 11.
 LaTeX Font Info:    Font shape `T1/pag/b/n' in size <10.95> not available
-(Font)              Font shape `T1/pag/db/n' tried instead on input line 18.
+(Font)              Font shape `T1/pag/db/n' tried instead on input line 11.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [15
 
 ]
+[16] [17]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
- [16]
-Underfull \vbox (badness 10000) has occurred while \output is active []
+ [18]
+Underfull \vbox (badness 4454) has occurred while \output is active []
 
- [17]
-[18] [19] [20] [21]
+ [19]
+[20] [21]
 Underfull \vbox (badness 10000) has occurred while \output is active []
 
  [22])
@@ -2183,7 +2185,7 @@ Here is how much of TeX's memory you used:
  44830 multiletter control sequences out of 15000+200000
  589839 words of font info for 188 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 62i,12n,79p,1786b,3844s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 62i,12n,79p,1787b,3844s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/Beheerder/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/8r
 .enc}<C:/Users/Beheerder/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/a
 msfonts/cm/cmsy10.pfb><C:/Users/Beheerder/AppData/Local/Programs/MiKTeX 2.9/fon
@@ -2192,7 +2194,7 @@ TeX 2.9/fonts/type1/urw/avantgar/uagk8a.pfb><C:/Users/Beheerder/AppData/Local/P
 rograms/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Users/Beheerder/AppData
 /Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Users/Beheerder
 /AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on bachproef-tin.pdf (48 pages, 9268346 bytes).
+Output written on bachproef-tin.pdf (48 pages, 9268900 bytes).
 PDF statistics:
  603 PDF objects out of 1000 (max. 8388607)
  137 named destinations out of 1000 (max. 500000)

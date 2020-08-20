@@ -5,7 +5,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.1}Probleemstelling}{13}{section.1.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {1.2}Onderzoeksvragen}{13}{section.1.2}% 
+\contentsline {section}{\numberline {1.2}Onderzoeksvragen}{14}{section.1.2}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {1.3}Onderzoeksdoelstelling}{14}{section.1.3}% 
 \defcounter {refsection}{0}\relax 
@@ -21,7 +21,7 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Standaard camera}{16}{section*.5}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{IR-Camera}{16}{section*.6}% 
+\contentsline {paragraph}{IR-Camera}{17}{section*.6}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Warmtecamera}{17}{section*.7}% 
 \defcounter {refsection}{0}\relax 
@@ -31,13 +31,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Consumer-grade drone}{18}{section*.9}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Drone uit de middelste prijsklasse}{18}{section*.10}% 
+\contentsline {paragraph}{Drone uit de midden prijsklasse}{19}{section*.10}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Een duurdere drone}{19}{section*.11}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Een versus meerdere drones}{19}{section*.12}% 
+\contentsline {paragraph}{E\IeC {\'e}n versus meerdere drones}{19}{section*.12}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.1.4}Extra opties}{19}{subsection.2.1.4}% 
+\contentsline {subsection}{\numberline {2.1.4}Extra opties}{20}{subsection.2.1.4}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Luidsprekers en een microfoon voor communicatie}{20}{section*.13}% 
 \defcounter {refsection}{0}\relax 
@@ -47,9 +47,9 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Inleiding}{20}{section*.15}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {subsection}{\numberline {2.2.1}Besturing van de drone}{20}{subsection.2.2.1}% 
+\contentsline {subsection}{\numberline {2.2.1}Besturing van de drone}{21}{subsection.2.2.1}% 
 \defcounter {refsection}{0}\relax 
-\contentsline {paragraph}{Handmatig}{20}{section*.16}% 
+\contentsline {paragraph}{Handmatig}{21}{section*.16}% 
 \defcounter {refsection}{0}\relax 
 \contentsline {paragraph}{Autonoom}{21}{section*.17}% 
 \defcounter {refsection}{0}\relax 
