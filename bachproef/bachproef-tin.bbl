@@ -53,6 +53,141 @@
       \verb https://ieeexplore.ieee.org/abstract/document/7003421
       \endverb
     \endentry
+    \entry{DJIGo4}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={{DJI}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{extraname}{1}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{1}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{DJI Go 4 - App}
+      \verb{urlraw}
+      \verb https://www.dji.com/be/downloads/djiapp/dji-go-4
+      \endverb
+      \verb{url}
+      \verb https://www.dji.com/be/downloads/djiapp/dji-go-4
+      \endverb
+    \endentry
+    \entry{MavicPro}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={{DJI}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{extraname}{2}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{2}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mavic Pro}
+      \verb{urlraw}
+      \verb https://www.dji.com/be/mavic
+      \endverb
+      \verb{url}
+      \verb https://www.dji.com/be/mavic
+      \endverb
+    \endentry
+    \entry{MobileSDKDJI}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={{DJI}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{extraname}{3}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{3}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mobile SDK DJI}
+      \verb{urlraw}
+      \verb https://developer.dji.com/mobile-sdk/
+      \endverb
+      \verb{url}
+      \verb https://developer.dji.com/mobile-sdk/
+      \endverb
+    \endentry
+    \entry{OnboardSDKDJI}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={{DJI}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{extraname}{4}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{4}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Onboard SDK DJI}
+      \verb{urlraw}
+      \verb https://developer.dji.com/onboard-sdk/
+      \endverb
+      \verb{url}
+      \verb https://developer.dji.com/onboard-sdk/
+      \endverb
+    \endentry
+    \entry{WindowsSDKDJI}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=153d951385c5fdca0deb46430d4c73e2}{%
+           family={{DJI}},
+           familyi={D\bibinitperiod}}}%
+      }
+      \strng{namehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{fullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{bibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorbibnamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authornamehash}{153d951385c5fdca0deb46430d4c73e2}
+      \strng{authorfullhash}{153d951385c5fdca0deb46430d4c73e2}
+      \field{extraname}{5}
+      \field{sortinit}{D}
+      \field{sortinithash}{2ef1bd9a78cc71eb74d7231c635177b8}
+      \field{extradate}{5}
+      \field{labeldatesource}{nodate}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Windows SDK DJI}
+      \verb{urlraw}
+      \verb https://developer.dji.com/windows-sdk/
+      \endverb
+      \verb{url}
+      \verb https://developer.dji.com/windows-sdk/
+      \endverb
+    \endentry
     \entry{CheapDroneOfficial}{retailer}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=bc914786a1d7e8babaec439008760d8e}{%
@@ -332,6 +467,32 @@
       \verb https://dzone.com/articles/introduction-to-classification-algorithms
       \endverb
     \endentry
+    \entry{MavicProImage}{image}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=eea68ef3f3ac490c2b9e4b7892c034e4}{%
+           family={{Reichelt}},
+           familyi={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \strng{fullhash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \strng{bibnamehash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \strng{authorbibnamehash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \strng{authornamehash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \strng{authorfullhash}{eea68ef3f3ac490c2b9e4b7892c034e4}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Mavic Pro Image}
+      \verb{urlraw}
+      \verb https://www.reichelt.com/magazin/nl/adembenemende-opnamen-dji-mavic-pro-cameradrone/
+      \endverb
+      \verb{url}
+      \verb https://www.reichelt.com/magazin/nl/adembenemende-opnamen-dji-mavic-pro-cameradrone/
+      \endverb
+    \endentry
     \entry{CheapDrone}{product}{}
       \name{author}{1}{}{%
         {{uniquename=0,uniquepart=base,hash=4febe38643b9fbdae73f3b35057efd71}{%
@@ -408,6 +569,32 @@
       \endverb
       \verb{url}
       \verb https://www.researchgate.net/publication/323349108_Review_of_human_detection_techniques_in_night_vision
+      \endverb
+    \endentry
+    \entry{Litchi}{product}{}
+      \name{author}{1}{}{%
+        {{uniquename=0,uniquepart=base,hash=6532c5193bd993fb5606ebcee12488ad}{%
+           family={{VC Technology Ltd}},
+           familyi={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{6532c5193bd993fb5606ebcee12488ad}
+      \strng{fullhash}{6532c5193bd993fb5606ebcee12488ad}
+      \strng{bibnamehash}{6532c5193bd993fb5606ebcee12488ad}
+      \strng{authorbibnamehash}{6532c5193bd993fb5606ebcee12488ad}
+      \strng{authornamehash}{6532c5193bd993fb5606ebcee12488ad}
+      \strng{authorfullhash}{6532c5193bd993fb5606ebcee12488ad}
+      \field{sortinit}{V}
+      \field{sortinithash}{75dd7385c90b2252c3ae853a80ca853b}
+      \field{labeldatesource}{nodate}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Litchi - App}
+      \verb{urlraw}
+      \verb https://flylitchi.com
+      \endverb
+      \verb{url}
+      \verb https://flylitchi.com
       \endverb
     \endentry
     \entry{WorldHealthOrganisation}{article}{}

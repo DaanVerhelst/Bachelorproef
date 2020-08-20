@@ -2146,17 +2146,25 @@
     <bcf:datasource type="file" datatype="bibtex">../voorstel/voorstel.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">WorldHealthOrganisation</bcf:citekey>
-    <bcf:citekey order="2">DigitalCameras</bcf:citekey>
-    <bcf:citekey order="3">CheapDrone</bcf:citekey>
-    <bcf:citekey order="4">CheapDroneOfficial</bcf:citekey>
-    <bcf:citekey order="5">Industrial</bcf:citekey>
-    <bcf:citekey order="6">DronesAndDisaster</bcf:citekey>
-    <bcf:citekey order="7">Mountains</bcf:citekey>
-    <bcf:citekey order="8">IR</bcf:citekey>
-    <bcf:citekey order="9">Heat</bcf:citekey>
-    <bcf:citekey order="10">Night</bcf:citekey>
-    <bcf:citekey order="11">Classification</bcf:citekey>
+    <bcf:citekey order="3">WorldHealthOrganisation</bcf:citekey>
+    <bcf:citekey order="4">DigitalCameras</bcf:citekey>
+    <bcf:citekey order="5">CheapDrone</bcf:citekey>
+    <bcf:citekey order="6">CheapDroneOfficial</bcf:citekey>
+    <bcf:citekey order="7">MavicPro</bcf:citekey>
+    <bcf:citekey order="8">Industrial</bcf:citekey>
+    <bcf:citekey order="9">MobileSDKDJI</bcf:citekey>
+    <bcf:citekey order="10">DJIGo4</bcf:citekey>
+    <bcf:citekey order="11">Litchi</bcf:citekey>
+    <bcf:citekey order="12">OnboardSDKDJI</bcf:citekey>
+    <bcf:citekey order="13">WindowsSDKDJI</bcf:citekey>
+    <bcf:citekey order="14">MavicProImage</bcf:citekey>
+    <bcf:citekey order="15">MavicProImage</bcf:citekey>
+    <bcf:citekey order="16">DronesAndDisaster</bcf:citekey>
+    <bcf:citekey order="17">Mountains</bcf:citekey>
+    <bcf:citekey order="18">IR</bcf:citekey>
+    <bcf:citekey order="19">Heat</bcf:citekey>
+    <bcf:citekey order="20">Night</bcf:citekey>
+    <bcf:citekey order="21">Classification</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
